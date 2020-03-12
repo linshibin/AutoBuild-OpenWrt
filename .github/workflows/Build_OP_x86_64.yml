@@ -66,9 +66,10 @@ jobs:
     - name: Import external feeds
       working-directory: ./openwrt
       run: |
-        src-git lienol https://github.com/Lienol/openwrt-package
-    #    git clone "your_github_link" package/"your_folder_name"  
-
+        # cat >>feeds.conf.default <<EOF
+        # src-git lienol https://github.com/Lienol/openwrt-package
+        # EOF
+        
     - name: Update & Install feeds
       working-directory: ./openwrt
       run: |
