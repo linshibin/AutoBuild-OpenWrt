@@ -11,9 +11,9 @@ on:
   release:
     types: [published]
 
-  push:
-    branches: 
-      - master
+  #push:
+  #  branches: 
+  #    - master
 
   #schedule:
   #  - cron: 0 8 * * 5
@@ -66,7 +66,6 @@ jobs:
     - name: Import external feeds
       working-directory: ./openwrt
       run: |
-        cd lede
         # cat >>feeds.conf.default <<EOF
         # src-git lienol https://github.com/Lienol/openwrt-package
         # EOF
