@@ -19,7 +19,7 @@ Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenW
 
 感谢两位大神，感谢esirplayground的脚本和youtub的教程。
 
-修改脚本自动添加Lienol的软件源，调用x86_64.config设置添加PassWall。
+自己修改esirplayground的脚本自动添加Lienol的软件源，调用x86_64.config设置添加PassWall。
 
 整个编译时间比较长
 
