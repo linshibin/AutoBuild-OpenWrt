@@ -23,7 +23,7 @@ Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenW
 
 整个编译时间比较长
 
-如果不需要VM、不许EFI编译可以在x86_64.config标注掉，这样时间会短一下。
+如果不需要VM、EFI编译可以在x86_64.config标注掉，这样时间会短一下。
 
 薅一下微软的羊毛，不用本地搭建环境，也不需要全局科学上网。
 
