@@ -27,4 +27,4 @@ Hereby thank P3TERX for his amazing job: https://github.com/P3TERX/Actions-OpenW
 
 薅一下微软的羊毛，不用本地搭建环境，也不需要全局科学上网。
 
-第一次玩，谢谢观看。感谢大神！
+第一次写，谢谢观看。感谢大神！
